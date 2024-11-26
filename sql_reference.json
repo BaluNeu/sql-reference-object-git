@@ -1,0 +1,5 @@
+{
+  "database": {
+    "create": "CREATE DATABASE SQL_REF;"
+  }
+}
